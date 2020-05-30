@@ -11,6 +11,8 @@ on:
 # 1. Set up the following secrets in your repository:
 #   AZURE_FUNCTIONAPP_PUBLISH_PROFILE
 #
+# Deploy # 1 to Azure Function
+#
 # 2. Change these variables for your configuration:
 env:
   AZURE_FUNCTIONAPP_NAME: your-app-name  # set this to your application's name
